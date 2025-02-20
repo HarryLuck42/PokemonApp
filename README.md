@@ -3,7 +3,6 @@
 1. Run the project
     - Clean the project
     - Pub get the project
-    - Rebuild the project
     - run the project (deploy)
 2. Additional features, improvements, or challenges
     - Use management state bloc
@@ -15,4 +14,6 @@
     - Cache the image of pokemon
     - Can change the mode (light/dark)
     - Can change the languages (bahasa/english)
+    - Running on Web
+    - Responsive screen
 
